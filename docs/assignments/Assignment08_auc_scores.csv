@@ -1,0 +1,7 @@
+Model,AUC
+Naive unweighted,0.9225985927759109
+Naive weighted,0.9112047461198529
+Test unweighted,0.6720976962698817
+Test weighted,0.6498031762899137
+Reverse unweighted,0.49469532900189833
+Reverse weighted,0.48944363919631984
